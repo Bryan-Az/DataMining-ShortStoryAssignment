@@ -6,4 +6,4 @@ The medium article: [Revolutionizing Wireless Communication: M.L meets Signal Pr
 
 The slides: [Google Presentation](https://docs.google.com/presentation/d/1N0N70cGiO73yaS19W5I4zy4xVxWQRYHpJUJhDLeuilE/edit?usp=sharing)
 
-The video: Video Presentation [Prezi Video](https://prezi.com/v/view/L3qI5TVlSGtsH70eg4Zq/)
+The video: [Prezi Video](https://prezi.com/v/view/L3qI5TVlSGtsH70eg4Zq/)
